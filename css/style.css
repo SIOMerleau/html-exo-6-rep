@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+header, footer {
+    color: darkblue;
+    background-color: lightgrey;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+section {
+    min-height: 300px;
+    padding: 5%;
+}
+
+a {
+    color: lightgrey;
+}
+
+a:hover {
+    color: red;
+}
