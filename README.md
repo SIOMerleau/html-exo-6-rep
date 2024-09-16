@@ -4,3 +4,4 @@ modifié vendredi à 15h00
 modifié samedi 16h
 modifié lundi 14h par un autre utilisateur
 test après invitation
+test après suppression clone du remote
